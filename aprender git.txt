@@ -1,1 +1,2 @@
 aprendiendo git
+aprendiendo a usar git pull
